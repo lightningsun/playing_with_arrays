@@ -22,6 +22,8 @@ int main()
         else std::cout << ".";
     }
     
+    std::cout << std::endl; // Keep this for a clean closing output in terminal
+
     return 0;
     
 }
